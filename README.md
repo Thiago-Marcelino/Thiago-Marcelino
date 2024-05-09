@@ -16,3 +16,7 @@ Uma lista completa das minhas atividades (artigos, podcasts, lives, etc.) está 
 Seja bem vindo e fique à vontade para entrar em contato. :)
 
 
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
