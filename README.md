@@ -15,6 +15,6 @@ Uma lista completa das minhas atividades (artigos, podcasts, lives, etc.) está 
 
 Seja bem vindo e fique à vontade para entrar em contato. :)
 
-(https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+
 
 
