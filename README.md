@@ -23,6 +23,8 @@ Seja bem vindo e fique à vontade para entrar em contato. :)
 </div>
 
 
+
+
 <!-- GithubStats -->
 ![Thiago-Marcelino GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-marcelino&show_icons=true&theme=gotham)
 
