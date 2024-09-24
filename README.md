@@ -3,7 +3,8 @@
 
 ###### Sobre o Thiago
 
-Profissional em ascensão na área de Análise de Dados pela EBAC, demonstrando um perfil analítico e profundo interesse em tecnologia. Decidiu empreender uma transição de carreira, buscando explorar a compreensão das necessidades das pessoas através da pesquisa e análise de dados. Está atualmente ampliando seu conhecimento e aprimorando seu portfólio com projetos práticos. Possui expertise em:
+Analista de Dados / Cientista de Dados
+Profissional em ascensão na área de Análise de Dados, demonstrando um perfil analítico e profundo interesse em tecnologia. Decidiu empreender uma transição de carreira, buscando explorar a compreensão das necessidades das pessoas através da pesquisa e análise de dados. Está atualmente ampliando seu conhecimento e aprimorando seu portfólio com projetos práticos. Possui expertise em:
 
 Python e SQL
 Desenvolvimento de soluções analíticas
