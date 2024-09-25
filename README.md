@@ -3,14 +3,7 @@
 
 ###### Sobre o Thiago
 
-Analista de Dados / Cientista de Dados
-Profissional em ascensão na área de Análise de Dados, demonstrando um perfil analítico e profundo interesse em tecnologia. Decidiu empreender uma transição de carreira, buscando explorar a compreensão das necessidades das pessoas através da pesquisa e análise de dados. Está atualmente ampliando seu conhecimento e aprimorando seu portfólio com projetos práticos. Possui expertise em:
-
-Python e SQL
-Desenvolvimento de soluções analíticas
-Estrutura de dados, algoritmos e arquitetura de sistemas
-Com uma trajetória em constante evolução, busca oportunidades para aplicar suas habilidades em novos contextos e contribuir de forma significativa para projetos desafiadores.
-
+Analista e Cientista de Dados com expertise em processar e analisar grandes volumes de informações, proporcionando insights acionáveis que apoiam decisões estratégicas. Domínio em ferramentas de visualização, como Tableau e Power BI, e em linguagens de programação como Python, R e SQL. Experiência na criação de dashboards interativos, automação de processos e colaboração com equipes multifuncionais para definição e monitoramento de KPIs. Destaco-me por minhas habilidades analíticas aguçadas, atenção meticulosa aos detalhes e capacidade de comunicar resultados complexos de forma clara e concisa. Estou motivado a aplicar minhas competências para contribuir com o sucesso contínuo da empresa.
 
 Uma lista completa das minhas atividades (artigos, podcasts, lives, etc.) está no meu perfil do GitHub, confira: https://github.com/Thiago-Marcelino
 
