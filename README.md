@@ -14,9 +14,9 @@ Seja bem vindo e fique à vontade para entrar em contato. :)
 E-mail: thiagomarcelino300@gmail.com
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg" width="40" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="30"/>
-  <img align="center" alt="Rafa-Scipy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Scipy/Scipy-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" height="30"/>
   <img align="center" alt="Rafa-Ploty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ploty/Ploty-original.svg">
   <img align="center" alt="Rafa-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Numpy/Numpy-original.svg">
   <img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Pandas/Pandas-original.svg">
