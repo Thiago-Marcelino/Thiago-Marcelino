@@ -35,6 +35,7 @@ E-mail: thiagomarcelino300@gmail.com
 </div>
 
 
+![Snake animation](https://github.com/Thiago-Marcelino/Thiago-Marcelino/blob/output/github-contribution-grid-snake.svg)
 
 
 
