@@ -17,11 +17,10 @@ E-mail: thiagomarcelino300@gmail.com
   <img align="center" alt="Rafa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" height="30"/>
-  <img align="center" alt="Rafa-Ploty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ploty/Ploty-original.svg">
-  <img align="center" alt="Rafa-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Numpy/Numpy-original.svg">
-  <img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Pandas/Pandas-original.svg">
-  <img align="center" alt="Rafa-Notion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Notion/Notion-original.svg">
-  <img align="center" alt="Rafa-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Canva/Canva-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ploty/ploty-original.svg" width="40" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="30"/>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Msql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -35,7 +34,7 @@ E-mail: thiagomarcelino300@gmail.com
 </div>
 
 
-![Snake animation](https://github.com/Thiago-Marcelino/Thiago-Marcelino/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
