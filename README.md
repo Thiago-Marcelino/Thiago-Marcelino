@@ -14,7 +14,7 @@ Seja bem vindo e fique à vontade para entrar em contato. :)
 E-mail: thiagomarcelino300@gmail.com
 
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg" width="40" height="30"/>
+  <img align="center" alt="Rafa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" height="30"/>
   <img align="center" alt="Rafa-Ploty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ploty/Ploty-original.svg">
