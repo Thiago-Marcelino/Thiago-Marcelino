@@ -15,7 +15,7 @@ E-mail: thiagomarcelino300@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg
+  <img aling="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg">
   <img align="center" alt="Rafa-Scipy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Scipy/Scipy-original.svg">
   <img align="center" alt="Rafa-Ploty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ploty/Ploty-original.svg">
   <img align="center" alt="Rafa-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Numpy/Numpy-original.svg">
