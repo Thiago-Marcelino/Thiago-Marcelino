@@ -15,6 +15,13 @@ E-mail: thiagomarcelino300@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-Scikit-Learn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Scikit-Learn/Scikit-Learn-original.svg">
+  <img align="center" alt="Rafa-Scipy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Scipy/Scipy-original.svg">
+  <img align="center" alt="Rafa-Ploty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Ploty/Ploty-original.svg">
+  <img align="center" alt="Rafa-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Numpy/Numpy-original.svg">
+  <img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Pandas/Pandas-original.svg">
+  <img align="center" alt="Rafa-Notion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Notion/Notion-original.svg">
+  <img align="center" alt="Rafa-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Canva/Canva-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Msql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
