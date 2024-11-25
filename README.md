@@ -35,6 +35,14 @@ E-mail: thiagomarcelino300@gmail.com
 </div>
 
 
+<div>
+  <a href="https://github.com/Thiago-Marcelino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Marcelino&layout=compact&langs_count=7&theme=green"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Marcelino&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+
 <!-- GithubStats -->
 ![Thiago-Marcelino GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-marcelino&show_icons=true&theme=gotham)
 
